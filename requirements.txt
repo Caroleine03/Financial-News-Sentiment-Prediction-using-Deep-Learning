@@ -1,0 +1,7 @@
+- Python 3.10+
+- torch
+- pandas
+- numpy
+- scikit-learn
+- streamlit
+- transformers (optional, for BERT)
