@@ -1,5 +1,5 @@
-- torch
-- pandas
-- numpy
-- scikit-learn
-- streamlit
+torch --index-url https://download.pytorch.org/whl/cpu
+pandas
+numpy
+scikit-learn
+streamlit
